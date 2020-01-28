@@ -2,7 +2,7 @@
 PHP Docker Images for Nginx
 
 This project provides an Nginx server of the latest version as well as the PHP `FPM` version. 
-These versionsn were Nginx 1.17.8 and PHP 7.4.2 at the time of publication.  
+These versions were Nginx 1.17.8 and PHP 7.4.2 at the time of publication.  
 
 The project structure is as follows:
 
